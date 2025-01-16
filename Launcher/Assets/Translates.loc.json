@@ -1,0 +1,176 @@
+﻿{
+   "Languages":{
+      "en":"English",
+      "ru":"Русский"
+   },
+   "Menu":{
+      "Home":{
+         "en":"Home",
+         "ru":"Главное"
+      },
+      "News":{
+         "en":"News",
+         "ru":"Новости"
+      },
+      "Settings":{
+         "en":"Settings",
+         "ru":"Настройки"
+      }
+   },
+   "GameMenu":{
+    "GameButton": {
+      "Launch": {
+        "en": "Launch",
+        "ru": "Играть"
+      },
+      "Launched": {
+        "en": "Launched",
+        "ru": "Запущено"
+      },
+      "Update": {
+        "en": "Update",
+        "ru": "Обновить"
+      },
+      "Install": {
+        "en": "Install",
+        "ru": "Установить"
+      },
+      "Downloading": {
+        "en": "Pause",
+        "ru": "Пауза"
+      },
+      "Paused": {
+        "en": "Resume",
+        "ru": "Возобновить"
+      }
+    },
+    "GameStatus": {
+      "Actual": {
+        "en": "You have up-to-date game client",
+        "ru": "У вас актуальный клиент игры"
+      },
+      "NeedUpdate": {
+        "en": "Need update game client",
+        "ru": "Необходимо установить обновление"
+      },
+      "NeedInstal": {
+        "en": "Need install game client",
+        "ru": "Необходимо установить клиент игры"
+      },
+      "Downloading": {
+        "en": "Game is in the process of downloading",
+        "ru": "Игра в процессе скачивания"
+      },
+      "Error": {
+        "en": "An error occurred. Check logs",
+        "ru": "Произошла ошибка. Проверьте логи"
+      }
+    }
+   },
+   "Windows":{
+      "Main":{
+         "Servers":{
+            "Headers":{
+               "Servers":{
+                  "en":"Servers",
+                  "ru":"Сервера"
+               },
+               "Online":{
+                  "en":"Online",
+                  "ru":"Онлайн"
+               },
+               "Players":{
+                  "en":"Project players",
+                  "ru":"Игроков проекта"
+               }
+            }
+         },
+         "Popup":{
+            "Visit":{
+               "en":"Visit page",
+               "ru":"Посетить сайт"
+            },
+            "CopyIp":{
+               "en":"Connection address has been copied",
+               "ru":"Ип адрес был скопирован"
+            },
+			"Map": {
+				"en": "{0}",
+				"ru": "{0}"
+			},
+			"Online":{
+				"en": "{0}",
+				"ru": "{0}"
+			}
+         }
+      },
+      "Settings":{
+         "Language":{
+            "Name":{
+               "en":"Language",
+               "ru":"Язык"
+            }
+         },
+         "Basic":{
+            "Name":{
+               "en":"Basic",
+               "ru":"Базовые"
+            },
+            "GameParameters":{
+               "en":"Game Parameters",
+               "ru":"Параметры запуска"
+            },
+            "SaveButton":{
+               "en":"Save",
+               "ru":"Сохранить"
+            }
+         },
+         "Files":{
+            "Name":{
+               "en":"Files",
+               "ru":"Файлы"
+            },
+            "GameFolder":{
+               "en":"Game folder",
+               "ru":"Папка с игрой"
+            },
+            "PathFolderTextBox":{
+               "en":"Not selected",
+               "ru":"Не выбрана папка"
+            },
+            "ChooseFolder":{
+               "en":"Save",
+               "ru":"Сохранить"
+            },
+            "ChooseButton":{
+               "en":"Choose",
+               "ru":"Выбрать"
+            },
+            "VerifyText":{
+               "en":"Force verify game files",
+               "ru":"Проверка целостности"
+            },
+            "VerifyOn":{
+               "en":"On",
+               "ru":"Вкл"
+            },
+            "VerifyOff":{
+               "en":"Off",
+               "ru":"Выкл"
+            }
+         },
+         "Version":{
+            "Name":{
+               "en":"Version",
+               "ru":"Версия"
+            },
+            "List":{
+               "Latest":{
+                  "en":"Latest",
+                  "ru":"Последняя"
+               }
+            }
+         }
+      }
+   }
+}
